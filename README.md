@@ -31,18 +31,42 @@
 </a>
 <br/>
 
-
-<h2>🛠 Languages & Tools<h2>
+<h2>🛠 Languages & Tools</h2>
 <p align="left">
-  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img height="37" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <!-- WEB FRONT -->
+  <strong>WEB FRONT</strong><br/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS"/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS"/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript"/>
+
+  <!-- MOBILE -->
+  <strong>MOBILE</strong><br/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native"/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachecordova/apachecordova-original.svg" alt="Cordova"/>
+
+  <!-- SOFTWARE -->
+  <strong>SOFTWARE</strong><br/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+
+  <!-- WEB BACK -->
+  <strong>WEB BACK</strong><br/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS"/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io"/>
+
+  <!-- DATABASE -->
+  <strong>DATABASE</strong><br/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL"/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL"/>
+
+  <!-- METHODOLOGIES -->
+  <strong>METHODOLOGIES</strong><br/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrum/scrum-original.svg" alt="Scrum"/>
+  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agile/agile-original.svg" alt="Agile"/>
 </p>
+
 
 </br>
