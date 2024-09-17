@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+SiMohamed+CHAHIK!;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Si Mohamed+CHAHIK!;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
 <h3 align="center">Fullstack Developer & Project Manager</h3>
 
@@ -11,15 +11,15 @@
 
 - 👨🏽‍💻   **Fullstack Developer Freelance**, based in Paris.
 
-- 🇫🇷   I am originally from **France**, and speak French and English.
+- 🇫🇷   I am originally from **France**, and speak French, English and Arabic.
 
 - 🏗️   Currently working on several projects including **[Waitick](https://www.waitick.fr)**, a platform that digitalizes queues to reduce waiting times.
 
-- 🎯   Specialized in **Next.js** and **TypeScript**, always eager to expand my knowledge.
+- 🎯   Specialized in **React.js && React Native** | **TypeScript** and **Node.js**, always eager to expand my knowledge.
 
 - 🗓   Feel free to ask me about **JavaScript**, **React**, **Node.js**, or **Docker**.
 
-- 💻   You can check out all **my projects** by clicking on this [link](https://github.com/SiMohamedCHAHIK?tab=repositories). Don't hesitate to reach out for collaborations or professional opportunities.
+- 💻   You can check out all **my projects** by clicking on this [link](https://github.com/MohamedChahik?tab=repositories). Don't hesitate to reach out for collaborations or professional opportunities.
 
 <h2>📲 Let's Connect</h2>
 <a href="https://simohchahik.dev">
